@@ -127,7 +127,7 @@ void keyPressed() {
   }
 }
 
-class OddballParticle extends Particle e
+class OddballParticle extends Particle 
 {
   OddballParticle(){
    myX = touchX;
